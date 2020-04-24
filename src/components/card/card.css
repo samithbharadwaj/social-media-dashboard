@@ -1,0 +1,19 @@
+.blue-top-strip {
+  background-color: hsl(195, 100%, 50%);
+}
+
+.twitter-top-strip {
+  background-color: hsl(203, 89%, 53%);
+}
+
+.instagram-top-strip {
+  background: linear-gradient(hsl(37, 97%, 70%), hsl(329, 70%, 58%));
+}
+
+.youtube-top-strip {
+  background-color: hsl(348, 97%, 39%);
+}
+
+.letter-space {
+  letter-spacing: 0.75em;
+}

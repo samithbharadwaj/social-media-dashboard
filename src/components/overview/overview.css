@@ -1,0 +1,11 @@
+.wrapper {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  height: 100px;
+  gap: 20px;
+}
+
+.card-info {
+  background-color: white;
+  height: 100px;
+}
